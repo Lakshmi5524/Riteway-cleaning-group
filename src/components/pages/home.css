@@ -1,0 +1,155 @@
+/*
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}*/
+
+p{
+    font-size: 14px;
+    color: #262626;
+    text-align: center;
+}
+.main-heading {
+    color: deepskyblue;
+    font-size: 26px;
+    
+}
+
+.underline {
+    height: 04px;
+    width: 5rem;
+    background-color: dodgerblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.bg-c-light{
+    background-color:aliceblue;
+}
+
+.rowcontainer{
+    background-color: white;
+    width: 100%;
+    padding: 100px;
+    margin-bottom: 300px;
+    
+}
+h1{
+    color: #2a80c0;
+    font-size: 20px;
+   font-family: 'Montserrat', sans-serif;;
+   font-weight: 1000;
+   margin-top: 20px;
+}
+h6{
+  color: #2a80c0;
+  font-size: 15px;
+  text-align: center;
+   font-family: 'Montserrat',
+   sans-serif;
+  font-weight: 1000;
+  margin-top: 20px;
+}
+
+.boximg{
+width: 60%;
+margin: auto;
+}
+
+span{
+   color: #2a80c0;
+   font-weight: 1500;
+}
+.clints{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.Services{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+.card-body{
+    align-items: center;
+}
+.card-title{
+   text-align: center;
+
+}
+.card-text{
+    text-align: center;
+    font-size: small;
+}
+.card-text1{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+.professional-img{
+    height: 200px;
+   width: 100%;
+    object-fit: cover;
+    margin-top: 20px;
+    width: 100%;
+
+}
+
+.text{
+    color:black;
+    font-size: 15px;
+}
+.containers{
+    background-color:white;
+    padding: 20px;
+    margin-bottom: 50px;
+    
+}
+/*Sevices*/
+button{
+    border: 1px solid white;
+    background: transparent;
+    width: 105px;
+    margin-left: 25px;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 10px;
+}
+.bgcolor{
+    background-color: #0286ce;
+    height: 160px;
+    width: 160px;
+    border-radius: 15px;
+    padding: 5px;
+    
+   
+}
+.texline{
+    color: white;
+    margin-top: 10px;
+    font-size: 11px;
+    
+}
+.servises{
+    color: white;
+    font-size: 10px;
+   
+}
+.btns{
+    color:wheat;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.contanersection{
+    padding: 20px;
+    margin: 10px;  
+}
+
+
+
+

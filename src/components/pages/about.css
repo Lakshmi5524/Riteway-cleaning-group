@@ -1,0 +1,29 @@
+.about{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.about1{
+    text-align: left;
+    margin-left: 153px;
+    margin-top: 20px;
+    
+}
+.text_line >p{
+ text-align: justify;
+ margin-left: 150px;
+ margin-right: 150px;
+ margin-top: 45px;
+}
+
+h3{
+    text-align: center;
+    color: #2a80c0;
+    
+}
+span{
+    color: deepskyblue;
+    font-weight: 900; 
+}
+
